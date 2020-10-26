@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@10.201.202.27:27167" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="NLP_server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.201.202.27:27167">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/fshooty" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.201.202.27:27167 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/fshooty" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
